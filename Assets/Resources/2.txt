@@ -1,0 +1,1 @@
+{"_row":10,"_column":5,"_firstGoal":3,"_firstGoalCount":10,"_secondGoal":4,"_secondGoalCount":10,"_thirdGoal":0,"_thirdGoalCount":0,"_countActionsToEndGame":11,"_field":[2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,4,14,14,14,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4]}

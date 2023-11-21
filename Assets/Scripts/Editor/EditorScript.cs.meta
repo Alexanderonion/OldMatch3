@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 8671c0393922cf94591eb91db48649a1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - _redToken: {fileID: 2800000, guid: 356c7460cb6db84479ba885d6cb3ff6f, type: 3}
+  - _greenToken: {fileID: 2800000, guid: 8ca568c0eed773645930e2a2e7e1f033, type: 3}
+  - _blueToken: {fileID: 2800000, guid: 4e8a08d9fa24e2d4d9a65d59abdce97d, type: 3}
+  - _yellowToken: {fileID: 2800000, guid: 753a2f733ec717342ad656a0625c730f, type: 3}
+  - _pinkToken: {fileID: 2800000, guid: 47b48825845fff347ae360a38ac7fe14, type: 3}
+  - _stoneObstacle: {fileID: 2800000, guid: 0135b06c08e2b5d45a331c1f4cf9d8f7, type: 3}
+  - _reinforcedStoneObstacle: {fileID: 2800000, guid: 738ccf418ed81dd45b4aca4519789332,
+      type: 3}
+  - _iceObstacle: {fileID: 2800000, guid: a1aebed85709f2c45a503bb542742138, type: 3}
+  - _reinforcedIceObstacle: {fileID: 2800000, guid: df1af33259dc3c641927021d2af8c3d4,
+      type: 3}
+  - _rocketBonus: {fileID: 2800000, guid: 2b3972f0b6ac21440a0861f25e641144, type: 3}
+  - _bombBonus: {fileID: 2800000, guid: 37bff26079c54234dad207de4c85abd5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
